@@ -1,0 +1,19 @@
+{
+  "name": "typescript-async-await",
+  "version": "1.0.0",
+  "description": "Typescript 2.1 async await overview",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typescript",
+    "async",
+    "await"
+  ],
+  "author": "Kamil Mysliwiec",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/es6-shim": "^0.31.32"
+  }
+}
